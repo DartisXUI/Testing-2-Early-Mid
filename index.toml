@@ -1,31 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configs/TinkerToolLeveling.cfg"
+file = "config/TinkerToolLeveling.cfg"
 hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
 
 [[files]]
-file = "configs/Waystones.cfg"
+file = "config/Waystones.cfg"
 hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
-file = "configs/natura.cfg"
+file = "config/natura.cfg"
 hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
 
 [[files]]
-file = "configs/orecore.cfg"
+file = "config/orecore.cfg"
 hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
-file = "configs/quark.cfg"
+file = "config/quark.cfg"
 hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
-file = "configs/reccomplex.cfg"
+file = "config/reccomplex.cfg"
 hash = "b3c4bd6ef4af1b55d87f3d9ca33b0eb7e9043605cb2069706b22963e3c33d487"
 
 [[files]]
-file = "configs/tconstruct.cfg"
+file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]

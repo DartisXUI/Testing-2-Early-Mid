@@ -43,6 +43,11 @@ hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
+metafile = true
+
+[[files]]
 file = "mods/animania-1.12.2-base-2.0.3.28.jar"
 hash = "64fd58afeaeaf5293883c95f20aafbb165b3c1cab05029bb8b9324f6d4051adc"
 
@@ -84,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/aromabackup.pw.toml"
 hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
+metafile = true
+
+[[files]]
+file = "mods/atlcraft-candles-mod.pw.toml"
+hash = "b31a9bd0f102bb98a218c91904022e9ac53624f85dd225aefdb31d1657addeae"
 metafile = true
 
 [[files]]
@@ -336,6 +346,11 @@ hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
 
 [[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
@@ -348,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/rough-mobs-revamped.pw.toml"
+hash = "86083a18020055dd379165e8bd51f5631238beae49424e3b47e30077c1b73088"
 metafile = true
 
 [[files]]
